@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "password_expire_perion",
+      "type": "java.lang.Long",
+      "description": "Password validity perion"
+    }
+  ]
+}
